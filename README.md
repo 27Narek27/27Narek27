@@ -1,4 +1,4 @@
-# Hi there, I'm Narek Hakobyan 👋
+# Narek Hakobyan
 
 17-year-old developer and AI enthusiast based in Yerevan, Armenia. 12th-grade student at Galust Gyulbenkyan High School No. 190 (AI stream).
 
